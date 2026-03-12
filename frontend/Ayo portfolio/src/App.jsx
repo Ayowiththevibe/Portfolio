@@ -76,7 +76,7 @@ const App = () => {
     setloading(true)
     setsuccess("")
     setpageerror("")
-    await fetch('http://localhost:8001/api/sendemail', {
+    await fetch('https://portfolio-kknz.onrender.com/api/sendemail', {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
