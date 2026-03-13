@@ -142,7 +142,7 @@ return (
           </button>
         </a>
 
-        <a href="public/Adebanjo Ayomide CV 2.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="Adebanjo Ayomide CV 2.pdf" target="_blank" rel="noopener noreferrer">
           <button className="border border-[#1E1E26] text-white font-semibold text-sm uppercase tracking-wider px-8 py-4 hover:border-[#C8F564] hover:text-[#C8F564] transition-all duration-200">
             View Resume
           </button>
