@@ -111,7 +111,6 @@ return (
     {/* ── HERO ── */}
     <section className="min-h-screen flex flex-col justify-center px-6 md:px-12 pt-32 pb-20">
       <div className="flex items-center gap-3 mb-8">
-        <span className="w-6 h-[2px] bg-[#C8F564] shrink-0"></span>
         <span className="text-[#C8F564] text-[9px] sm:text-xs uppercase tracking-widest font-bold">Fullstack Developer · Lagos, NG</span>
       </div>
 
